@@ -34,8 +34,8 @@ This Executive MBA Capstone Project explores how Generative AI tools are transfo
 
 ## 💡 Skills Demonstrated
 
-📌 Business Analysis
-📌 Data Collection & Validation
+#📌 Business Analysis
+#📌 Data Collection & Validation
 📌 Exploratory Data Analysis (EDA)
 📌 Data Visualization
 📌 Insight Generation
